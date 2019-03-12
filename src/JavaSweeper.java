@@ -20,9 +20,6 @@ public class JavaSweeper extends JFrame
     private final int BOMBS = 10; // количество бомб
     private final int IMAGE_SIZE = 30; // размер картинки одинаковый по x и по y
 
-
-
-
     public static void main(String[] args)
     {
         new JavaSweeper();
